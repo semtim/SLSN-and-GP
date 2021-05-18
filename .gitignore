@@ -1,0 +1,9 @@
+
+fit SLSN/approxed SLSN/SN2015bn/SN2015bn_g'.dat
+fit SLSN/approxed SLSN/SN2015bn/SN2015bn_i'.dat
+fit SLSN/approxed SLSN/SN2015bn/SN2015bn_r'.dat
+fit SLSN/approxed SLSN/SN2015bn/SN2015bn_u'.dat
+fit SLSN/approxed SLSN/SN2015bn/SN2015bn_z'.dat
+fit SLSN/SN2015bn_ugrizprime.py
+*.zip
+sampling SLSN/table_SLSN.csv
